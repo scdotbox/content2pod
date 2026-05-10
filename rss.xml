@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+  <channel>
+    <title>Content2Pod - 我的AI播客</title>
+    <link>https://scdotbox.github.io/content2pod/</link>
+    <description>自动生成的中文播客，聚合多源内容</description>
+    <language>zh-cn</language>
+    <itunes:author>Content2Pod</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+
+    <lastBuildDate>Sun, 10 May 2026 02:29:39 +0000</lastBuildDate>
+
+    <item>
+      <title>Content2Pod 播客 (第1期)</title>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://scdotbox.github.io/content2pod/audio/episode_latest.mp3" length="1900944" type="audio/mpeg"/>
+      <guid isPermaLink="false">1778380179</guid>
+      <pubDate>Sun, 10 May 2026 02:29:39 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
