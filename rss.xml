@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 
   <channel>
     <title>Content2Pod - 我的AI播客</title>
@@ -15,31 +13,24 @@
 
     <item>
       <title>Content2Pod 播客 (第1期)</title>
-      <description><![CDATA[]]></description>
-      <enclosure url="https://scdotbox.github.io/content2pod/audio/episode_latest.mp3" length="1900944" type="audio/mpeg"/>
+      <description />
+      <enclosure url="https://scdotbox.github.io/content2pod/audio/episode_latest.mp3" length="1900944" type="audio/mpeg" />
       <guid isPermaLink="false">1778380179</guid>
       <pubDate>Sun, 10 May 2026 02:29:39 +0000</pubDate>
     </item>
       <item>
       <title>Content2Pod 播客 (第2期)</title>
-      <description><![CDATA[]]></description>
-      <enclosure url="https://scdotbox.github.io/content2pod/audio/episode_latest.mp3" length="14840928" type="audio/mpeg"/>
+      <description />
+      <enclosure url="https://scdotbox.github.io/content2pod/audio/episode_latest.mp3" length="14840928" type="audio/mpeg" />
       <guid isPermaLink="false">1778402864</guid>
       <pubDate>Sun, 10 May 2026 08:47:43 +0000</pubDate>
     </item>
       <item>
       <title>Content2Pod 播客 (第3期)</title>
-      <description><![CDATA[]]></description>
-      <enclosure url="https://scdotbox.github.io/content2pod/audio/episode_003.mp3" length="7547411" type="audio/mpeg"/>
+      <description />
+      <enclosure url="https://scdotbox.github.io/content2pod/audio/episode_003.mp3" length="7547411" type="audio/mpeg" />
       <guid isPermaLink="false">https://scdotbox.github.io/content2pod/audio/episode_003.mp3</guid>
       <pubDate>Sun, 10 May 2026 12:06:58 +0000</pubDate>
     </item>
-      <item>
-      <title>Content2Pod 播客 (第4期)</title>
-      <description><![CDATA[]]></description>
-      <enclosure url="https://scdotbox.github.io/content2pod/audio/episode_004.mp3" length="7547411" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://scdotbox.github.io/content2pod/audio/episode_004.mp3</guid>
-      <pubDate>Sun, 10 May 2026 12:17:15 +0000</pubDate>
-    </item>
-  </channel>
+      </channel>
 </rss>
