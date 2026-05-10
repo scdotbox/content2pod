@@ -25,12 +25,5 @@
       <guid isPermaLink="false">1778402864</guid>
       <pubDate>Sun, 10 May 2026 08:47:43 +0000</pubDate>
     </item>
-      <item>
-      <title>Content2Pod 播客 (第3期)</title>
-      <description />
-      <enclosure url="https://scdotbox.github.io/content2pod/audio/episode_003.mp3" length="7547411" type="audio/mpeg" />
-      <guid isPermaLink="false">https://scdotbox.github.io/content2pod/audio/episode_003.mp3</guid>
-      <pubDate>Sun, 10 May 2026 12:06:58 +0000</pubDate>
-    </item>
       </channel>
 </rss>
