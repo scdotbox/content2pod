@@ -20,7 +20,7 @@
 
       <itunes:image href="http://i0.hdslb.com/bfs/archive/c8399eeebb9c9daa059a99f64d1331b735aa56e1.jpg" />
     </item>
-  <itunes:image href="http://i1.hdslb.com/bfs/archive/da14b456e73426be57fe5a591e2e207642cf3103.jpg" />    <item>
+  <itunes:image href="http://i2.hdslb.com/bfs/archive/811ba2b5ee71a3d26a2ca9784b9ea506e7226f05.jpg" />    <item>
       <title>不再交芯片税！中国芯片如何夺回「架构主权」？</title>
       <description />
       <enclosure url="https://scdotbox.github.io/content2pod/audio/episode_002_不再交芯片税！中国芯片如何夺回「架构主权」？.mp3" length="28214176" type="audio/mpeg" />
@@ -28,6 +28,15 @@
       <pubDate>Sat, 16 May 2026 07:52:09 +0000</pubDate>
 
       <itunes:image href="http://i1.hdslb.com/bfs/archive/da14b456e73426be57fe5a591e2e207642cf3103.jpg" />
+    </item>
+      <item>
+      <title>秘密研发三年！安克这颗存算一体芯片，如何违背了所有「祖宗的决定」？【全网最深度解读】</title>
+      <description />
+      <enclosure url="https://scdotbox.github.io/content2pod/audio/episode_003_秘密研发三年！安克这颗存算一体芯片，如何违背了所有「祖宗的决定」？【全网最深度解读】.mp3" length="26201580" type="audio/mpeg" />
+      <guid isPermaLink="false">https://scdotbox.github.io/content2pod/audio/episode_003_秘密研发三年！安克这颗存算一体芯片，如何违背了所有「祖宗的决定」？【全网最深度解读】.mp3</guid>
+      <pubDate>Sat, 16 May 2026 09:01:48 +0000</pubDate>
+
+      <itunes:image href="http://i2.hdslb.com/bfs/archive/811ba2b5ee71a3d26a2ca9784b9ea506e7226f05.jpg" />
     </item>
   </channel>
 </rss>
