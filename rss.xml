@@ -12,14 +12,14 @@
     <lastBuildDate>Sun, 10 May 2026 02:29:39 +0000</lastBuildDate>
 
     <item>
-      <title>Content2Pod 播客 (第1期)</title>
+      <title>Content2Pod 播客</title>
       <description />
       <enclosure url="https://scdotbox.github.io/content2pod/audio/episode_latest.mp3" length="1900944" type="audio/mpeg" />
       <guid isPermaLink="false">1778380179</guid>
       <pubDate>Sun, 10 May 2026 02:29:39 +0000</pubDate>
     </item>
           <item>
-      <title>挑战30天只吃土豆，鸡胸肉，西兰花，胡萝卜，到底能瘦多少斤 (第5期)</title>
+      <title>挑战30天只吃土豆，鸡胸肉，西兰花，胡萝卜，到底能瘦多少斤</title>
       <description />
       <enclosure url="https://scdotbox.github.io/content2pod/audio/episode_005.mp3" length="7547411" type="audio/mpeg" />
       <guid isPermaLink="false">https://scdotbox.github.io/content2pod/audio/episode_005.mp3</guid>
@@ -27,5 +27,14 @@
 
       <itunes:image href="http://i0.hdslb.com/bfs/archive/e15ba1771170e6942f98fbea9fe87d70d62e7bd6.jpg" />
     </item>
-  <itunes:image href="http://i0.hdslb.com/bfs/archive/e15ba1771170e6942f98fbea9fe87d70d62e7bd6.jpg" /></channel>
+  <itunes:image href="http://i0.hdslb.com/bfs/archive/c8399eeebb9c9daa059a99f64d1331b735aa56e1.jpg" />    <item>
+      <title>英伟达杀手？谷歌芯片抢走百亿订单，老黄慌了吗？</title>
+      <description />
+      <enclosure url="https://scdotbox.github.io/content2pod/audio/episode_006.mp3" length="27938596" type="audio/mpeg" />
+      <guid isPermaLink="false">https://scdotbox.github.io/content2pod/audio/episode_006.mp3</guid>
+      <pubDate>Sat, 16 May 2026 07:17:48 +0000</pubDate>
+
+      <itunes:image href="http://i0.hdslb.com/bfs/archive/c8399eeebb9c9daa059a99f64d1331b735aa56e1.jpg" />
+    </item>
+  </channel>
 </rss>
